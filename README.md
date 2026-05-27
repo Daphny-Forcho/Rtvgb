@@ -1,16 +1,16 @@
 # Hey, I'm Rtvgb 👋
 
-I'm a senior at Towson University finishing up a degree in **Information Technology with a Network Security track**, graduating Spring 2027. I'm building toward a career in **cloud security and AWS** through hands-on labs covering sysadmin fundamentals, networking, and cloud infrastructure — documenting everything here as I go.
+I'm a senior at Towson University finishing up a degree in **Information Technology with a Network Security track**, graduating Spring 2027. I'm building toward a career in **cloud security and AWS** through hands-on labs covering sysadmin fundamentals, networking, and cybersecurity — documenting everything here as I go.
 
 ## 🛠️ What I'm Working With
 
 - **Virtualization:** VMware Workstation — building and managing Windows and Linux VMs
 - **Operating Systems:** Windows 11, Windows Server 2022, Ubuntu Client & Server
 - **Cloud:** AWS (EC2, IAM, security groups)
-- **Security:** Nessus Essentials, vulnerability scanning, credentialed vs non-credentialed assessments
+- **Security:** Nessus Essentials, John the Ripper, vulnerability scanning, password cracking, PGP encryption
 - **Monitoring & SIEM:** Splunk Enterprise — data ingestion, search queries, subsearches
 - **Scripting:** Bash scripting on Linux and Windows (Cygwin), PowerShell
-- **Networking:** Static IP configuration, DNS, network diagnostics
+- **Networking:** Subnetting, static IP, DHCP, DNS, wireless LAN, structured cabling
 - **IT Operations:** Spiceworks Help Desk, ticketing workflows, user account management
 
 ## 📂 Projects
@@ -18,7 +18,8 @@ I'm a senior at Towson University finishing up a degree in **Information Technol
 | Repo | Description |
 |------|-------------|
 | [Sysadmin Labs](https://github.com/Rtvgb/projects) | 8 labs covering VM setup, user management, Splunk, scripting, vulnerability scanning, and more |
-| [Networking Labs](https://github.com/Rtvgb/networking) | Networking labs in Cisco Packet Tracer — structured cabling, IP addressing, switching, and more |
+| [Networking Labs](https://github.com/Rtvgb/networking) | Packet Tracer labs — structured cabling, subnetting, DHCP, DNS, wireless LAN, cryptography |
+| [Cybersecurity Labs](https://github.com/Rtvgb/cybersecurity) | Password cracking, vulnerability assessment, and security tooling |
 
 ## 🎯 Currently Focused On
 
