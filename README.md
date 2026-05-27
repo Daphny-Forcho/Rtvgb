@@ -18,7 +18,7 @@ I'm a senior at Towson University finishing up a degree in **Information Technol
 | Repo | Description |
 |------|-------------|
 | [Sysadmin Labs](https://github.com/Rtvgb/projects) | 8 labs covering VM setup, user management, Splunk, scripting, vulnerability scanning, and more |
-| [Networking Labs](https://github.com/Rtvgb/networking) | Hands-on networking labs — in progress |
+| [Networking Labs](https://github.com/Rtvgb/networking) | Networking labs in Cisco Packet Tracer — structured cabling, IP addressing, switching, and more |
 
 ## 🎯 Currently Focused On
 
