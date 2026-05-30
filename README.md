@@ -19,10 +19,11 @@ I'm a student at **Towson University** pursuing a **B.S. in Information Technolo
 
 | Repo | Description |
 | ---- | ----------- |
-| [cloud-computing](https://github.com/Daphny-Forcho/cloud-computing) | Deployed a website on AWS EC2 (Ubuntu) with VPC, ALB, Auto Scaling, and AMI replication |
-| [network-simulation](https://github.com/Daphny-Forcho/network-simulation) | Designed a secure network in Cisco Packet Tracer — subnetting, routing, firewall setup |
-| [cybersecurity-labs](https://github.com/Daphny-Forcho/cybersecurity-labs) | Encryption and threat-detection exercises in simulated environments |
-
+| [cloud-computing](https://github.com/Daphny-Forcho/cybersecurity) | Deployed a website on AWS EC2 (Ubuntu) with VPC, ALB, Auto Scaling, and AMI replication |
+| [network-simulation](https://github.com/Daphny-Forcho/sysadmin-projects) | Designed a secure network in Cisco Packet Tracer — subnetting, routing, firewall setup |
+| [cybersecurity-labs]() | Encryption and threat-detection exercises in simulated environments |
+| ---- | (https://github.com/Daphny-Forcho/networking).
+ 
 ---
 
 ## 🏆 Certifications
