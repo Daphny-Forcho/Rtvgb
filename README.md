@@ -1,4 +1,4 @@
-# Hey, I'm Rtvgb 👋
+# Hey, I'm Daphny Forcho  👋
 
 I'm a senior at Towson University finishing up a degree in **Information Technology with a Network Security track**, graduating Spring 2027. I'm building toward a career in **cloud security and AWS** through hands-on labs covering sysadmin fundamentals, networking, and cybersecurity — documenting everything here as I go.
 
