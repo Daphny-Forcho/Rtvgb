@@ -1,32 +1,48 @@
-# Hey, I'm Daphny Forcho  👋
+# Hey, I'm Daphny Forcho 👋
 
-I'm a senior at Towson University finishing up a degree in **Information Technology with a Network Security track**, graduating Spring 2027. I'm building toward a career in **cloud security and AWS** through hands-on labs covering sysadmin fundamentals, networking, and cybersecurity — documenting everything here as I go.
+I'm a student at **Towson University** pursuing a **B.S. in Information Technology — Network Security Track**, graduating Spring 2027. I'm building toward a career in **cybersecurity and cloud infrastructure** through hands-on labs and real AWS projects — documenting everything here as I go.
 
-## 🛠️ What I'm Working With
+---
 
-- **Virtualization:** VMware Workstation — building and managing Windows and Linux VMs
-- **Operating Systems:** Windows 11, Windows Server 2022, Ubuntu Client & Server
-- **Cloud:** AWS (EC2, IAM, security groups)
-- **Security:** Nessus Essentials, John the Ripper, vulnerability scanning, password cracking, PGP encryption
-- **Monitoring & SIEM:** Splunk Enterprise — data ingestion, search queries, subsearches
-- **Scripting:** Bash scripting on Linux and Windows (Cygwin), PowerShell
-- **Networking:** Subnetting, static IP, DHCP, DNS, wireless LAN, structured cabling
-- **IT Operations:** Spiceworks Help Desk, ticketing workflows, user account management
+## 🛠️ What I Work With
+
+- **Cloud:** AWS (EC2, VPC, ALB, Auto Scaling, AMI, Security Groups, IAM)
+- **Operating Systems:** Windows, macOS, Ubuntu (Linux)
+- **Security:** Firewalls, VPNs, encryption, threat detection, vulnerability management
+- **Networking:** Subnetting, routing, Cisco Packet Tracer, Wireshark
+- **Scripting & Dev:** Python, Bash, Java, HTML, CSS
+- **Tools:** VirtualBox, Linux Terminal, Microsoft Office Suite, Google Workspace
+
+---
 
 ## 📂 Projects
 
 | Repo | Description |
-|------|-------------|
-| [Sysadmin Labs](https://github.com/Rtvgb/projects) | 8 labs covering VM setup, user management, Splunk, scripting, vulnerability scanning, and more |
-| [Networking Labs](https://github.com/Rtvgb/networking) | Packet Tracer labs — structured cabling, subnetting, DHCP, DNS, wireless LAN, cryptography |
-| [Cybersecurity Labs](https://github.com/Rtvgb/cybersecurity) | Password cracking, vulnerability assessment, and security tooling |
+| ---- | ----------- |
+| [cloud-computing](https://github.com/Daphny-Forcho/cloud-computing) | Deployed a website on AWS EC2 (Ubuntu) with VPC, ALB, Auto Scaling, and AMI replication |
+| [network-simulation](https://github.com/Daphny-Forcho/network-simulation) | Designed a secure network in Cisco Packet Tracer — subnetting, routing, firewall setup |
+| [cybersecurity-labs](https://github.com/Daphny-Forcho/cybersecurity-labs) | Encryption and threat-detection exercises in simulated environments |
+
+---
+
+## 🏆 Certifications
+
+- ✅ CompTIA Security+
+- 🔄 CompTIA Network+ *(In Progress)*
+- ✅ Google Cybersecurity Certificate
+
+---
 
 ## 🎯 Currently Focused On
 
-- Building cloud infrastructure skills on AWS
-- Studying for cloud security certifications
-- Expanding into networking fundamentals and protocols
+- Expanding AWS cloud infrastructure skills
+- Completing CompTIA Network+
+- Building Python scripting skills for cloud automation
+
+---
 
 ## 📫 Let's Connect
 
-Senior graduating Spring 2027 and actively looking for entry-level opportunities in cloud security, sysadmin, and IT infrastructure.
+Student graduating Spring 2027 actively looking for internships and entry-level opportunities in **cybersecurity** and **cloud infrastructure**.
+
+📧 rooneydaphny@gmail.com
